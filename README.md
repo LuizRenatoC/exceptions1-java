@@ -1,6 +1,8 @@
 # Sobre o projeto
 Criando exceções personalizadas.
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LuizRenatoC/exceptions1-java/blob/main/LICENCE)
+
 # Estudo de caso
 Fazer um programa para ler os dados de uma reserva de hotel (número do quarto, data
 de entrada e data de saída) e mostrar os dados da reserva, inclusive sua duração em
